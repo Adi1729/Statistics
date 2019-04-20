@@ -19,7 +19,7 @@ cor(X,Y) = 0.5\
 cor(X,Z) = 1\
 Here, it can ne said X,Z covary much more than X,Z 
 
-## Why variance is divided by (n-1)?\
+## Why variance is divided by (n-1)?
 [Khan Academy - Variance](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance)
 
 
