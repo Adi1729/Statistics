@@ -28,7 +28,7 @@ Here, it can ne said X,Z covary much more than X,Z
 
 ## F-tests 
 
-Compares variance of two different population. \
+Compares variance of two different population.\
 Assumption:  Population from which sample is drawn must be normal.
 
 
@@ -48,9 +48,9 @@ Both the tests is use to find how mean of a two sample is different from each ot
 
 Z- test is used when standard deviation of a population is known and t - test is used when standard deviation is now known for population. Instead it is estimated by finding standard deviation of a sample. 
 
-Assumption of a t-test :\
+Assumption of a t-test :
 1. Random sample i.e each sample must be independant of each other which is assumed if samples size < 30 or 10% of population.\
-2. Sample follows Nomral distribution
+2. Sample follows Normal distribution
 
 Z -test is used when sample size > 30.
 There are different types of t-tests for different purposes. Some of the more common types are outlined below.
