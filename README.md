@@ -30,7 +30,7 @@ Here, it can ne said X,Z covary much more than X,Z
 
 Compares variance of two different population. 
 
-<img src="https://github.com/Adi1729/Statistics/blob/master/F Test.jpg" width = 80%,  height = 80%>
+<img src="https://github.com/Adi1729/Statistics/blob/master/F test.jpg" width = 80%,  height = 80%>
 
 There are different types of t-tests for different purposes. Some of the more common types are outlined below.
 
