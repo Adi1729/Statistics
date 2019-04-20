@@ -34,6 +34,17 @@ Assumption:  Population from which sample is drawn must be normal.
 
 <img src="https://github.com/Adi1729/Statistics/blob/master/F test.jpg" width = 80%,  height = 80%>
 
+## Z-test and T-test
+
+Both the tests is use to find how mean of a two sample is different from each other. 
+
+Z- test is used when standard deviation of a population is known and t - test is used when standard deviation is now known for population. Instead it is estimated by finding standard deviation of a sample. 
+
+Assumption of a t-test :\
+1. Random sample i.e each sample must be independant of each other which is assumed if samples size < 30 or 10% of population.\
+2. Sample follows Nomral distribution
+
+Z -test is used when sample size > 30.
 There are different types of t-tests for different purposes. Some of the more common types are outlined below.
 
    1. F-test for testing equality of variance is used to test the hypothesis of the equality of two population variances. The height example above requires the use of this test.
