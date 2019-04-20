@@ -28,7 +28,9 @@ Here, it can ne said X,Z covary much more than X,Z
 
 ## F-tests 
 
-Compares variance of two different population. 
+Compares variance of two different population. \
+Assumption:  Population from which sample is drawn must be normal.
+
 
 <img src="https://github.com/Adi1729/Statistics/blob/master/F test.jpg" width = 80%,  height = 80%>
 
