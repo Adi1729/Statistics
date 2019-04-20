@@ -2,7 +2,7 @@
 Contains questions on statistics required in machine learning based on as asked in interviews
 
 
-#Covariance and Corrlelation :
+## Covariance and Corrlelation :
 
 Covariance :\
 Formaula = ![first equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7B%5Csum%20%28X-%5Cbar%7BX%7D%29%28Y-%5Cbar%7BY%7D%29%7D%7BN%7D)
@@ -19,7 +19,7 @@ cor(X,Y) = 0.5\
 cor(X,Z) = 1\
 Here, it can ne said X,Z covary much more than X,Z 
 
-#Why variance is divided by (n-1)?\
+## Why variance is divided by (n-1)?\
 [Khan Academy - Variance](https://www.khanacademy.org/math/ap-statistics/summarizing-quantitative-data-ap/more-standard-deviation/v/another-simulation-giving-evidence-that-n-1-gives-us-an-unbiased-estimate-of-variance)
 
 
