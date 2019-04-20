@@ -30,19 +30,17 @@ Here, it can ne said X,Z covary much more than X,Z
 
 Compares variance of two different population. 
 
-
+<img src="https://github.com/Adi1729/Machine-Learning-Materials/blob/master/model_interpretation_ensemble.png" width = 80%,  height = 80%>
 
 There are different types of t-tests for different purposes. Some of the more common types are outlined below.
 
-    F-test for testing equality of variance is used to test the hypothesis of the equality of two population variances. The height example above requires the use of this test.
-
-    F-test for testing equality of several means. The test for equality of several means is carried out by the technique called ANOVA.
-
-    For example, suppose that an experimenter wishes to test the efficacy of a drug at three levels: 100 mg, 250 mg and 500 mg. A test is conducted among fifteen human subjects taken at random, with five subjects being administered each level of the drug.
-
-    To test if there are significant differences among the three levels of the drug in terms of efficacy, the ANOVA technique has to be applied. The test used for this purpose is the F-test.
-
-    F-test for testing significance of regression is used to test the significance of the regression model. The appropriateness of the multiple regression model as a whole can be tested by this test. A significant F value indicates a linear relationship between Y and at least one of the Xs.
+   1. F-test for testing equality of variance is used to test the hypothesis of the equality of two population variances. The height example above requires the use of this test.
+   
+   2. F-test for testing equality of several means. The test for equality of several means is carried out by the technique called ANOVA.\
+   For example, suppose that an experimenter wishes to test the efficacy of a drug at three levels: 100 mg, 250 mg and 500 mg. A test is conducted among fifteen human subjects taken at random, with five subjects being administered each level of the drug.\
+To test if there are significant differences among the three levels of the drug in terms of efficacy, the ANOVA technique has to be applied. The test used for this purpose is the F-test.
+   
+   3. F-test for testing significance of regression is used to test the significance of the regression model. The appropriateness of the multiple regression model as a whole can be tested by this test. A significant F value indicates a linear relationship between Y and at least one of the Xs.
 
 
 
