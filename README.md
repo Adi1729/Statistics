@@ -14,7 +14,7 @@ However, one can not compare two cavariance results as both has different units.
 
 Correlation:\
 
-cor(X,Y) = ![second equation]https://latex.codecogs.com/gif.latex?%5Cfrac%7Bcov%28X%2CY%29%7D%7Bcov%28X%29cov%28Y%29%7D   -1<=cor<=1
+cor(X,Y) = ![second equation](https://latex.codecogs.com/gif.latex?%5Cfrac%7Bcov%28X%2CY%29%7D%7Bcov%28X%29cov%28Y%29%7D)   -1<=cor<=1
 cor(X,Y) = 0.5\            
 cor(X,Z) = 1\
 Here, it can ne said X,Z covary much more than X,Z 
