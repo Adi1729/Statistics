@@ -65,8 +65,8 @@ Assumption of a t-test :
 
 Z -test is used when sample size > 30.
 
-## [Multicollinearity and VIF]\
-(https://www.youtube.com/watch?v=ATH4urDitI8)\
+## Multicollinearity and VIF
+[VIF Explained with python notebook in link](https://www.youtube.com/watch?v=ATH4urDitI8)
 
 
 
